@@ -1,6 +1,6 @@
 # UNIUBE-notify
 
-This Python software automates tasks related to the UNIUBE portal. 
+This Python software send notifications related to the UNIUBE portal. 
 
 # How it works
 *Login Automation:* Logs into your UNIUBE account using your credentials in a secure way.
