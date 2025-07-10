@@ -2,6 +2,8 @@
 
 This Python software send notifications related to the UNIUBE portal. 
 
+> ⚠️ **Note**: The game is fully written in **Portuguese (Brazilian)**.
+
 # How it works
 *Login Automation:* Logs into your UNIUBE account using your credentials in a secure way.
 
